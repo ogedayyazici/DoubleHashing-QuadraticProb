@@ -1,2 +1,0 @@
-C:\Users\ogeday\Documents\Visual Studio 2019\Projects\Group11Assignment3\x64\Debug\Assignment3.exe
-C:\Users\ogeday\Documents\Visual Studio 2019\Projects\Group11Assignment3\x64\Debug\Assignment3.pdb
