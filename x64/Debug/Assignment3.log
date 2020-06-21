@@ -1,0 +1,12 @@
+﻿  I_hash.cpp
+C:\Users\white\source\repos\DoubleHashing-QuadraticProb\I_hash.h(9,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\white\source\repos\DoubleHashing-QuadraticProb\I_hash.cpp(14,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\white\source\repos\DoubleHashing-QuadraticProb\I_hash.h(9,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  the_double_hashing.cpp
+C:\Users\white\source\repos\DoubleHashing-QuadraticProb\I_hash.h(9,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  the_quadratic_probing.cpp
+C:\Users\white\source\repos\DoubleHashing-QuadraticProb\I_hash.h(9,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\white\source\repos\DoubleHashing-QuadraticProb\I_hash.cpp(35): warning C4715: 'I_hash::Search': not all control paths return a value
+  Assignment3.vcxproj -> C:\Users\white\source\repos\DoubleHashing-QuadraticProb\x64\Debug\Assignment3.exe
